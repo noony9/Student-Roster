@@ -1,2 +1,1 @@
-# Student-Roster
-WGU Projects
+A student roster project in C++
